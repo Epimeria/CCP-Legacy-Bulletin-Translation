@@ -1,4 +1,4 @@
-# CCP-Legacy-Bulletin-Translation
+# CCP Legacy Bulletin Translation
 WIP repository for translating a the bulletin of the State Council of China 
 
 
@@ -6,6 +6,8 @@ WIP repository for translating a the bulletin of the State Council of China
 Provide a reliable and unbiased (as much as possible) translation of documents pertaining to the 1989 protests. These documents (as far as I know) are testimony by officers who were present at the time. 
 
 ## Contributing
+Partial contributions are extremely welcome.
+
 Each file will have an accompanying .txt file. If you have a suggestion for standardization, please submit a request or contact me directly.
 
 The end goal will be to create a direct parallel document in PDF format that shows the direct translation side-by-side with the original text. This will be done automatically, so just provide the translation and I will handle the rest
