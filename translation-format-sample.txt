@@ -1,0 +1,29 @@
+Description: Just a statement of what content the article contains at a glance. No need to read through it all. 
+
+Title: (Title from article)
+Subtitle: (Any text below it) 
+
+Page 1:
+---------
+Table of contents:
+1. Table of contents
+2. Some topic
+3. Another topic
+
+Page 2:
+--------
+P1: paragraph one. 
+
+P2: paragraph two.
+
+P3: paragraph three.
+
+
+Page 3:
+---------
+P1: paragraph one. 
+
+P2: paragraph two.
+
+P3: paragraph three.
+
